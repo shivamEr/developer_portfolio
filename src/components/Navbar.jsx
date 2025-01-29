@@ -10,7 +10,7 @@ export const Navbar = () => {
     setShowMenu(!showMenu);
   }
   return (
-    <div className='bg-gray-950 z-50 w-full py-3 fixed'>
+    <div className='bg-gray-950 z-50 w-full py-1 fixed'>
       <div className="flex items-center justify-between max-w-7xl mx-auto px-4 md:px-0">
         {/* Logo Section */}
         <div>
